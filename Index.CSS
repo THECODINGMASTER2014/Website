@@ -1,0 +1,13 @@
+body{
+text-align: center;
+font-family: cursive;
+background-color: black;
+color: white;
+}
+.topnav a{
+    color: white;
+}
+
+   .topnav a :hover{
+    color: orange;
+   }
