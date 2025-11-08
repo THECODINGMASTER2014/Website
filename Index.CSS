@@ -1,8 +1,9 @@
 body{
-text-align: center;
+text-align: left;
 font-family: cursive;
 background-color: black;
 color: white;
+padding-left: 5px;
 }
 .topnav a{
     color: white;
