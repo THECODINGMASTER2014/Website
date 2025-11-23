@@ -2,9 +2,10 @@ body{
 text-align: center;
 background-color: black;
 color: white;
+font-family: cursive;
 }
 .topnav a{
-    color: rgb(61, 61, 61);
+    color: rgba(131, 131, 131, 0.842);
     float: left;
     text-align: center;
     padding: 14px 16px;
