@@ -9,7 +9,6 @@ font-family: cursive;
     float: left;
     text-align: center;
     padding: 14px 16px;
-    text-decoration: wavy;
     font-size: 17px;
 
 }
@@ -28,4 +27,11 @@ font-family: cursive;
    .img1{
 float: right;
    }
-   
+.carousel-inner> .item > img{
+width: 300px;
+height: 400px;
+}   
+.carousel-inner{
+   text-align: center;
+   align-items: center;
+}
